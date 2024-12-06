@@ -81,23 +81,28 @@ Through open-source development, we're creating a stable and sustainable platfor
 
 -   **MAINTENANCE**: Ensuring platform stability
 -   **UPDATING**: Keeping licenses current
+
 <br />
 
-### Benefits
+## Benefits
 <br />
-• Comprehensive art work information collection 
+• Comprehensive art work information collection<br />
 <br />
-• Extensive art work overview platform 
+• Extensive art work overview platform<br />
 <br />
-• Sustainable open-source development 
+• Sustainable open-source development<br />
 <br />
-• Permanent metadata storage through IPFS
+• Permanent metadata storage through IPFS<br />
 
+<br />
 <br />
 
 ### Project Team
 <br />
-The Jazz Foundation is an open-source initiative led by field experts who actively develop and maintain our platform. Through user collaboration, we ensure continuous growth and success.
+The Jazz Foundation is an open-source initiative led by field experts who actively develop and maintain our platform.<br /> 
+Through user collaboration,<br />
+
+### we ensure continuous growth and success.
 
 <br />
 <br />
@@ -134,25 +139,40 @@ users can propose changes that our development team reviews and implements.<br /
 <br />
 
 ### The Role of AI in Art Creation
+<br />
 
-AI technology is reshaping art creation. Our platform will distinguish between AI-generated and human-created art using machine learning algorithms, helping users make informed decisions about each work's value.
+AI technology is reshaping art creation. <br /> 
+Our platform will distinguish between AI-generated and human-created art using machine learning algorithms,<br /> 
+helping users make informed decisions about each work's value.
 <br />
 <br />
 
 ### The Importance of Human Involvement
+<br />
 
-Art creation transcends technical aspects—it requires understanding human values and emotions. Human involvement is crucial to our platform's development. Together, we'll make the Jazz Foundation a vital resource for artists, collectors, and art enthusiasts.
+Art creation transcends technical aspects—it requires understanding human values and emotions.<br />
+Human involvement is crucial to our platform's development. <br />
+Together, we'll make the Jazz Foundation a vital resource for artists, collectors, and art enthusiasts.
 <br />
 <br />
 
 ### Supporting AI-generated Art
+<br />
 
-While AI art grows more sophisticated, it still needs human guidance. By supporting AI artists and recognizing their contributions, we're fostering a more inclusive artistic community. Join us in shaping this evolution.
+While AI art grows more sophisticated, it still needs human guidance.<br /> 
+By supporting AI artists and recognizing their contributions, <br />
+we're fostering a more inclusive artistic community. <br />
+Join us in shaping this evolution.
 <br />
 <br />
 
 ### Our Commitment to Artistic Values
+<br />
 
-The Jazz Foundation believes in treating all art works with respect and dignity. We uphold high artistic standards and ensure our platform reflects these principles. Working with artists, collectors, and connoisseurs, we're creating an informative and inspiring platform. Join us in this journey!
+The Jazz Foundation believes in treating all art works with respect and dignity. <br />
+We uphold high artistic standards and ensure our platform reflects these principles. <br />
+Working with artists, collectors, and connoisseurs, we're creating an informative and inspiring platform. <br />
+Join us in this journey!
+<br />
 
-We look forward to building a brighter future for  **art creation!**
+# We look forward to building a brighter future for  **art creation!**
