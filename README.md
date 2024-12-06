@@ -8,7 +8,7 @@ Welcome to the Jazz Foundation open-source project.
 We're building a sustainable knowledge archive platform for art works, 
 creating a comprehensive database that's easily accessible and shareable.
 
-## Projects
+### Projects
 
 The Jazz Foundation is 
 an open-source project dedicated to collecting and utilizing information about art works.
