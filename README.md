@@ -94,7 +94,7 @@ Through open-source development, we're creating a stable and sustainable platfor
 <br />
 
 
-## Benefits
+### Benefits
 <br />
 • Comprehensive art work information collection<br />
 <br />
@@ -107,7 +107,7 @@ Through open-source development, we're creating a stable and sustainable platfor
 <br />
 <br />
 
-## Project Team
+### Project Team
 <br />
 The Jazz Foundation is an open-source initiative led by field experts who actively develop and maintain our platform.<br /> 
 Through user collaboration,<br />
