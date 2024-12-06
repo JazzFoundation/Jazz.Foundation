@@ -1,131 +1,158 @@
-# Jazz.Foundation ( https://gitART.net )
+Jazz.Foundation ([](https://gitart.net/)[https://gitART.net](https://gitart.net/))
 
-## What is GitArt?
+# What is GitArt?
 
-Jazz Foundation: A Sustainable Knowledge Archive Platform for Art Works
+**A Sustainable Knowledge Archive Platform for Art Works**
 
-We are pleased to introduce the Jazz Foundation open-source project, 
-which aims to provide a sustainable knowledge archive platform for various art works. 
-Our goal is to create a comprehensive overview of art works that can be easily accessed and shared by users.
+Welcome to the Jazz Foundation open-source project. 
+We're building a sustainable knowledge archive platform for art works, 
+creating a comprehensive database that's easily accessible and shareable.
 
 ## Projects
 
-The Jazz Foundation is developed as an open-source project with the aim of collecting and utilizing information on art works. 
-The primary feature of our project is generating and managing metadata for art works,
-making it easier for users to search and access the information.
+The Jazz Foundation is 
+an open-source project dedicated to collecting and utilizing information about art works.
 
-We believe that by utilizing open-source development, 
-we can create a stable and sustainable platform that can be maintained indefinitely. 
-To achieve this goal, we are planning to utilize ActivityPub, 
-a decentralized social networking protocol, 
-to enable seamless communication between users. 
-Additionally, we will use IPFS (InterPlanetary File System), 
-a peer-to-peer file sharing system, 
-to ensure the permanent storage and accessibility of metadata.
+Our core feature is the generation and management of art work metadata,
+streamlining information access and discovery.
 
+Through open-source development, we're creating a stable and sustainable platform built to last.
+<br />
 
-## Key Features
+<br />
 
-
-
-+ **ART WORKS** : Generating and managing metadata for various art works
-
-+ **INFORMATION SHARING** : Providing a platform for sharing art work information that can be easily searched by users
-
-+ **LICENSE MANAGEMENT** : Obtaining free and useful licenses through open-source development
-
+> To achieve this, we're implementing  [**[ActivityPub]**](https://www.w3.org/TR/activitypub/),<br />
+> a decentralized social networking protocol.
 >
-> The Jazz Foundation focuses on collecting, managing, and sharing metadata for various art works. 
-> This feature enables users to search and access the information easily.
+> for seamless user communication.<br />
+> We're also utilizing  [**[IPFS]**](https://ipfs.tech/)  (_InterPlanetary File System_).
 >
+> a peer-to-peer file sharing system,<br />
+> to ensure permanent storage and accessibility of  **metadata**.
+>
+> While our initial operating policy comes from the project's founder,<br />
+> we use a  **WIKI**  to maintain sustainability and incorporate community improvements.
 
-+ **COLLECTION** : Collecting metadata from various sources
+<br />
+  
 
-+ **MANAGEMENT** : Managing and updating the collected metadata
+| TYPE | PROTOCOL |
+| -|-|
+| POLICY | WIKI (OPEN SOURCE) |
+| STORAGE | IPFS |
+| METADATA  | ACTIVIVITY PUB |
+| TRANSACTION | ACTIVIVITY PUB |
 
-+ **SHARING** : Sharing the collected metadata with other users
-
-> The Jazz Foundation provides a platform for sharing art work information that can be easily searched by users. 
-> This feature enables users to access and share the information with others.
-
-
-
-+ **SEARCH** : Searching for specific art works using metadata
-
-+ **ACCESS** : Accessing and viewing the collected metadata
-
-+ **SHARE** : Sharing the collected metadata with other users
-
-> The Jazz Foundation utilizes open-source development to obtain free and useful licenses. 
-> This feature enables us to maintain a stable and sustainable platform.
+<br />
 
 
+----------
+<br />
 
-+ **OBTAINING LICENSES** : Obtaining necessary licenses for the project
+### Key Features
+<br />
 
-+ **MAINTENANCE** : Maintaining the stability of the platform
 
-+ **UPDATING** : Updating the licenses as needed
+-   **ART WORKS**: Generating and managing metadata for art works
 
+-   **INFORMATION SHARING**: Providing a searchable platform for art work information
+-   **LICENSE MANAGEMENT**: Securing free and useful licenses through open-source development
+  
+> The Jazz Foundation specializes in collecting, managing, and sharing art work metadata, making information easily discoverable.
+<br />
+
+-   **COLLECTION**: Gathering metadata from diverse sources
+
+-   **MANAGEMENT**: Maintaining and updating collected metadata
+-   **SHARING**: Distributing metadata among users
+
+> Our platform enables easy searching and sharing of art work information.
+<br />
+
+-   **SEARCH**: Finding specific art works through metadata
+
+-   **ACCESS**: Viewing collected metadata
+-   **SHARE**: Sharing metadata with others
+
+> Through open-source development, we maintain a stable platform with free, useful licenses.
+<br />
+
+-   **OBTAINING LICENSES**: Securing necessary project licenses
+
+-   **MAINTENANCE**: Ensuring platform stability
+-   **UPDATING**: Keeping licenses current
+<br />
 
 ### Benefits
+<br />
+• Comprehensive art work information collection 
+<br />
+• Extensive art work overview platform 
+<br />
+• Sustainable open-source development 
+<br />
+• Permanent metadata storage through IPFS
 
-Utilizing our project to collect information on various art works
-Establishing a platform that offers comprehensive overviews of art works
-Maintaining a stable and sustainable platform through open-source development
-Ensuring permanent storage and accessibility of metadata using IPFS
+<br />
 
 ### Project Team
+<br />
+The Jazz Foundation is an open-source initiative led by field experts who actively develop and maintain our platform. Through user collaboration, we ensure continuous growth and success.
 
-The Jazz Foundation is developed as an open-source project, aiming to collect, manage, and share information on art works. 
-Our development team consists of experts from the field, who are actively engaged in developing and maintaining our project.
-We believe that by working together with users, we can ensure the continued success and growth of the project.
+<br />
+<br />
 
-## Join Us!
+----------
+<br />
 
-We welcome you to participate in our project. 
-We believe that our knowledge archive platform can be helpful in providing a sustainable source of information for various art works. 
-By collaborating with us, we can ensure that our project is developed effectively.
-To facilitate this collaboration, we will utilize wiki technology to manage and update our operating policies. 
-This will enable users to propose changes and suggestions, which will be reviewed and implemented by the development team.
+### Join Us!
+
+Your participation matters. <br />
+Our knowledge archive platform provides sustainable art work information, <br />
+and your collaboration helps us develop effectively. <br />
+Through our wiki-based operating policies, <br />
+users can propose changes that our development team reviews and implements.<br />
+<br />
+>Contact : Standard@jazz.foundation<br />
+<br />
 
 ### Our Current Roadmap
 
-* a. Expanding the development team by recruiting experts
+-    Expanding our expert development team
+-    Gathering user feedback for licensing
+-    Continuous platform improvement through open-source development
+-    IPFS implementation for permanent metadata storage
+<br />
 
-* b. Gathering feedback from users to obtain necessary license
 
-* c. Continuing to update and improve the platform through open-source development
+> More project information coming soon.
+<br />
+<br />
 
-* d. Implementing IPFS for permanent storage and accessibility of metadata
+----------
 
-> We will provide more information on our project.
+<br />
 
-#### The Role of AI in Art Creation
-In the future, AI technology will play an increasingly important role in the creation of art works. 
-The Jazz Foundation aims to address this development by providing a platform that can distinguish between AI-generated art and human-created art.
-To achieve this goal, we will utilize machine learning algorithms that analyze the characteristics of AI-generated art and compare them with those of human-created art. 
-This will enable users to make informed decisions about the value and significance of each work.
+### The Role of AI in Art Creation
+
+AI technology is reshaping art creation. Our platform will distinguish between AI-generated and human-created art using machine learning algorithms, helping users make informed decisions about each work's value.
+<br />
+<br />
 
 ### The Importance of Human Involvement
 
-However, the creation of art works is not just a technical challenge; it also requires a deep understanding of human values and emotions. 
-For this reason, we believe that human involvement is essential in the development of our platform.
-By working together with users, we can ensure that the Jazz Foundation remains a valuable resource for artists, collectors, and connoisseurs alike. 
-We invite you to join us on this exciting journey into the future of art creation!
- 
+Art creation transcends technical aspects—it requires understanding human values and emotions. Human involvement is crucial to our platform's development. Together, we'll make the Jazz Foundation a vital resource for artists, collectors, and art enthusiasts.
+<br />
+<br />
+
 ### Supporting AI-generated Art
 
-While AI-generated art is becoming increasingly sophisticated, it still requires human involvement in many areas. 
-By supporting the work of AI artists and acknowledging their contributions, we can help to create a more inclusive and diverse artistic community.
-We invite you to join us in this effort by participating in our project and contributing your ideas and expertise. 
-Together, we can build a brighter future for art creation!
+While AI art grows more sophisticated, it still needs human guidance. By supporting AI artists and recognizing their contributions, we're fostering a more inclusive artistic community. Join us in shaping this evolution.
+<br />
+<br />
 
 ### Our Commitment to Artistic Values
 
-At the Jazz Foundation, we believe that all art works, regardless of their origin, deserve to be treated with respect and dignity. 
-We are committed to upholding the highest standards of artistic values and ensuring that our platform reflects these principles.
-To achieve this goal, we will work closely with artists, collectors, and connoisseurs to create a platform that is both informative and inspiring. 
-We invite you to join us on this journey and contribute your expertise and insights along the way!
- 
-We look forward to working with you and building a brighter future for **art creation!**
+The Jazz Foundation believes in treating all art works with respect and dignity. We uphold high artistic standards and ensure our platform reflects these principles. Working with artists, collectors, and connoisseurs, we're creating an informative and inspiring platform. Join us in this journey!
+
+We look forward to building a brighter future for  **art creation!**
