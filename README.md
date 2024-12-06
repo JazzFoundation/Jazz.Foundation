@@ -41,8 +41,8 @@ Through open-source development, we're creating a stable and sustainable platfor
 | -|-|
 | POLICY | WIKI (OPEN SOURCE) |
 | STORAGE | IPFS |
-| METADATA  | ACTIVIVITY PUB |
-| TRANSACTION | ACTIVIVITY PUB |
+| METADATA  | ACTIVITY PUB |
+| TRANSACTION | ACTIVITY PUB |
 
 <br />
 
