@@ -102,8 +102,7 @@ Through open-source development, we're creating a stable and sustainable platfor
 <br />
 The Jazz Foundation is an open-source initiative led by field experts who actively develop and maintain our platform.<br /> 
 Through user collaboration,<br />
-
-### we ensure continuous growth and success.
+we ensure continuous growth and success.
 
 <br />
 <br />
