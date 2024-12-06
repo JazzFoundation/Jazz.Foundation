@@ -7,6 +7,7 @@ Jazz.Foundation ([](https://gitart.net/)[https://gitART.net](https://gitart.net/
 Welcome to the Jazz Foundation open-source project. 
 We're building a sustainable knowledge archive platform for art works, 
 creating a comprehensive database that's easily accessible and shareable.
+<br />
 
 ### Projects
 
@@ -173,6 +174,6 @@ The Jazz Foundation believes in treating all art works with respect and dignity.
 We uphold high artistic standards and ensure our platform reflects these principles. <br />
 Working with artists, collectors, and connoisseurs, we're creating an informative and inspiring platform. <br />
 Join us in this journey!
-<br />
+<br /><br />
 
 # We look forward to building a brighter future for  **art creation!**
