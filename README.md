@@ -147,7 +147,7 @@ users can propose changes that our development team reviews and implements.<br /
 
 <br />
 
-### The Role of AI in Art Creation
+## The Role of AI in Art Creation
 <br />
 
 AI technology is reshaping art creation. <br /> 
