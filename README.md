@@ -143,11 +143,10 @@ users can propose changes that our development team reviews and implements.<br /
 <br />
 <br />
 
-# We look forward to building a brighter future for  **art creation!**
+----------
+# We look forward to building a brighter future for  art creation!
 
-<br />
-
-## The Role of AI in Art Creation
+### The Role of AI in Art Creation
 <br />
 
 AI technology is reshaping art creation. <br /> 
