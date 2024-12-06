@@ -134,7 +134,7 @@ users can propose changes that our development team reviews and implements.<br /
 <br />
 <br />
 
-----------
+# We look forward to building a brighter future for  **art creation!**
 
 <br />
 
@@ -174,5 +174,3 @@ We uphold high artistic standards and ensure our platform reflects these princip
 Working with artists, collectors, and connoisseurs, we're creating an informative and inspiring platform. <br />
 Join us in this journey!
 <br /><br />
-
-# We look forward to building a brighter future for  **art creation!**
